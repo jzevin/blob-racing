@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f7838b99948d143aa8e5905dc6d86e, type: 3}
+  m_Name: RaceSettings
+  m_EditorClassIdentifier: 
+  minSpeedRange: 2.25
+  maxSpeedRange: 9
+  startX: -10
+  endX: 10
+  chanceToChangeSpeed: 0.025
+  defaultColor: {r: 0, g: 0.40000004, b: 0, a: 1}
+  firstPlaceColor: {r: 0.92156863, g: 0.847255, b: 0.18431371, a: 1}
+  secondPlaceColor: {r: 0.6561845, g: 0.6561845, b: 0.6561845, a: 1}
+  thirdPlaceColor: {r: 0.49019608, g: 0.31792066, b: 0.10980391, a: 1}
+  autoPlay: 1
